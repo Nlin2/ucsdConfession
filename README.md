@@ -1,5 +1,5 @@
 # UCSD Confessions Automated Posting
-Challenge/Goal: Full stack application using currently free webservices.  
+Challenge/Goal: Full stack application using API's from free web services.  
 Strategy:  
   1. Database - Google Forms
   2. Server - Python Script on a cronjob
