@@ -2,7 +2,7 @@
 Challenge/Goal: Full stack application using API's from free web services.  
 Strategy:  
   * Database - Google Forms
-    * Link: bit.ly/UCSDConfessions
+    * Link: https://bit.ly/UCSDConfessions
   * Server - Python Script on a cronjob
   * Client Side: Facebook, Twitter, Instagram
     * Link: https://www.instagram.com/ucsd_confessions/
@@ -15,7 +15,7 @@ Features:
   * NLP/ML filter against harassing posts
   * Optional Tripcode
 
-Manual posting required ~30 seconds to 1 minute per post. Automation is < 2 seconds per post
+Manual posting required 30 seconds to 1 minute per post. Automation is < 2 seconds per post
 
 Todos:
   * create environment file
